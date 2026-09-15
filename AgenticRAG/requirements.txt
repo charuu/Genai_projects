@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+langchain_openai
+langgraph
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+typesense
